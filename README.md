@@ -63,7 +63,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Asrumochan&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -73,7 +73,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Asrumochan&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -83,7 +83,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Asrumochan&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </div>
 
@@ -112,7 +112,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/asrumochan-parida-9975361a5/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -120,13 +120,13 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/Asrumochan">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://YOUR_PORTFOLIO">
+<!-- <a href="https://YOUR_PORTFOLIO">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
-</a>
+</a> -->
 
 </p>
 
