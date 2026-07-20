@@ -6,7 +6,7 @@
 - 🌱 Learning System Design
 - 💻 4 Years Experience
 - 📍 India
-- 📫 Email: your@email.com
+- 📫 Email: asrumochanparida99@gmail.com
 
 - [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;React+Developer;Node.js+Developer;Open+to+Remote+Jobs)](https://git.io/typing-svg)
 - ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
