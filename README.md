@@ -1,38 +1,141 @@
-# Hi 👋 I'm Asrumochan Parida
+<div align="center">
 
-## Full Stack Developer
+# Hi 👋, I'm **Asrumochan Parida**
 
-- 🔭 Working on React & Node.js
-- 🌱 Learning System Design
-- 💻 4 Years Experience
-- 📍 India
-- 📫 Email: asrumochanparida99@gmail.com
+### 🚀 Full Stack Developer | React.js • Node.js • Express.js • MongoDB
 
-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;React+Developer;Node.js+Developer;Open+to+Remote+Jobs)](https://git.io/typing-svg)
-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-- ![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
-- ![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
-- ### Connect with me
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React.js+Developer;Node.js+%26+Express.js;Building+Scalable+Web+Applications;Open+to+Remote+Opportunities" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=flat" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-black)](https://yourportfolio.com)
+</div>
 
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:you@gmail.com)
+---
 
-### Tech Stack
+# 👨‍💻 About Me
 
-![React](https://img.shields.io/badge/React-20232A?logo=react)
+- 💼 Full Stack Developer with **4+ years** of experience
+- ⚛️ Building scalable applications using **React.js, Node.js & Express.js**
+- 🌱 Currently learning **System Design & Cloud Technologies**
+- 🔥 Passionate about clean code, performance & modern UI
+- 🌍 Open to **Remote Full-Time & Freelance Opportunities**
+- 📧 **Email:** asrumochanparida99@gmail.com
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)
+---
 
-![Express](https://img.shields.io/badge/Express-000000?logo=express)
+# 🚀 Tech Stack
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)
+### Frontend
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript)
+<p>
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,redux,tailwind,bootstrap,vite" />
+</p>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript)
+### Backend
 
-[![Asrumochan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact)]()
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
+
+### Tools & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,npm" />
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 💼 Featured Skills
+
+```text
+✔ React.js
+✔ JavaScript
+✔ TypeScript
+✔ Node.js
+✔ Express.js
+✔ MongoDB
+✔ REST APIs
+✔ HTML5 & CSS3
+✔ Git & GitHub
+✔ Responsive Web Design
+✔ JWT Authentication
+✔ Agile Development
+```
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:asrumochanparida99@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💙 Thanks for visiting my profile!
+
+*"Code. Learn. Build. Repeat."* 🚀
+
+</div>
