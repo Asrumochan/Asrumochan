@@ -1,11 +1,11 @@
-<div align="center">
+ <div align="center">
 
-# Hi 👋, I'm **Asrumochan Parida**
+# Hi 👋, I'm Asrumochan Parida
 
-### 🚀 Full Stack Developer | React.js • Node.js • Express.js • MongoDB
+### Full Stack Developer | React.js • Next.js • Node.js • TypeScript
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React.js+Developer;Node.js+%26+Express.js;Building+Scalable+Web+Applications;Open+to+Remote+Opportunities" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React.js+%26+Next.js+Developer;Node.js+%26+Express.js;Building+Scalable+Applications;Cloud+%26+Microservices+Enthusiast" />
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=Asrumochan&label=Profile+Views&color=0e75b6&style=flat" />
@@ -14,40 +14,108 @@
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 💼 Full Stack Developer with **4+ years** of experience
-- ⚛️ Building scalable applications using **React.js, Node.js & Express.js**
-- 🌱 Currently learning **System Design & Cloud Technologies**
-- 🔥 Passionate about clean code, performance & modern UI
-- 🌍 Open to **Remote Full-Time & Freelance Opportunities**
-- 📧 **Email:** asrumochanparida99@gmail.com
-
----
-
-# 🚀 Tech Stack
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,redux,tailwind,bootstrap,vite" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
-</p>
-
-### Tools & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,npm" />
-</p>
+- 💼 Full Stack Developer with **4+ years of professional experience**
+- ⚛️ Experienced in building enterprise-scale applications using React.js, Next.js and TypeScript
+- 🖥️ Backend development with Node.js, Express.js and RESTful APIs
+- 🏗️ Experience with Micro-Frontend Architecture and Webpack Module Federation
+- ☁️ Working knowledge of AWS, Docker and CI/CD pipelines
+- 🗄️ Experienced with MongoDB, PostgreSQL and SQL
+- 🚀 Interested in System Design, scalable architecture and cloud technologies
+- 🌍 Open to Full-Time and Remote Opportunities
 
 ---
 
-# 📊 GitHub Statistics
+## 🚀 Technical Skills
+
+### Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap,redux,vite" />
+</p>
+
+- React.js, Next.js
+- JavaScript (ES6+), TypeScript
+- HTML5, CSS3, Tailwind CSS, Bootstrap
+- Redux, Zustand, Context API
+- React Query
+- React Hooks and Performance Optimization
+- Micro-Frontend Architecture
+- Webpack Module Federation
+- Storybook and Material UI
+
+### Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,graphql" />
+</p>
+
+- Node.js and Express.js
+- RESTful API Development
+- GraphQL
+- JWT Authentication and Authorization
+- Middleware and API Integration
+- Cron Jobs
+- Server-side Pagination
+- WebSockets
+
+### Databases and Caching
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" />
+</p>
+
+- MongoDB and Mongoose
+- PostgreSQL and SQL
+- MongoDB Aggregation Pipeline
+- Database Indexing and Optimization
+- Redis Caching
+
+### Cloud, DevOps and Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,github,git,githubactions,postman,vscode" />
+</p>
+
+- AWS and Serverless Architecture
+- Azure DevOps
+- Docker and Docker Compose
+- CI/CD Pipelines
+- Git and GitHub
+- GitHub Actions
+- Postman
+- NPM
+
+### Testing
+
+<p>
+<img src="https://skillicons.dev/icons?i=jest,cypress" />
+</p>
+
+- Jest
+- React Testing Library
+- Cypress
+- Unit and Integration Testing
+
+---
+
+## 🏗️ Architecture and Engineering
+
+- Micro-Frontend Architecture
+- Webpack Module Federation
+- REST API Design
+- Authentication and Authorization
+- Scalable Backend Services
+- Caching and Performance Optimization
+- Server-Side Rendering (SSR)
+- Static Site Generation (SSG)
+- Incremental Static Regeneration (ISR)
+- CI/CD and Deployment Workflows
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -59,7 +127,7 @@
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <div align="center">
 
@@ -69,7 +137,7 @@
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
 
@@ -79,36 +147,7 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Asrumochan&theme=onedark"/>
-
-</div>
-
----
-
-# 💼 Featured Skills
-
-```text
-✔ React.js
-✔ JavaScript
-✔ TypeScript
-✔ Node.js
-✔ Express.js
-✔ MongoDB
-✔ REST APIs
-✔ HTML5 & CSS3
-✔ Git & GitHub
-✔ Responsive Web Design
-✔ JWT Authentication
-✔ Agile Development
-```
-
----
-
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
@@ -124,7 +163,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
- <a href="https://asrumochan.github.io/portfolio/">
+<a href="https://asrumochan.github.io/portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
 </a>
 
@@ -136,6 +175,6 @@
 
 ### 💙 Thanks for visiting my profile!
 
-*"Code. Learn. Build. Repeat."* 🚀
+*"Code. Learn. Build. Scale. Repeat."* 🚀
 
 </div>
